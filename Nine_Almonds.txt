@@ -1,0 +1,10 @@
+5 5
+brown almond A 1 1
+brown almond A 1 2
+brown almond A 1 3
+brown almond A 2 1
+brown almond A 2 2
+brown almond A 2 3
+brown almond A 3 1
+brown almond A 3 2
+brown almond A 3 3

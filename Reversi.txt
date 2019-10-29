@@ -1,0 +1,6 @@
+1
+8 8
+black coin X 3 3
+white coin O 3 4
+black coin X 4 4
+white coin O 4 3
